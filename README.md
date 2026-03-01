@@ -12,6 +12,7 @@ This repository contains my Java programming logic exercises.
 
 ## Platforms
 - Beecrowd
+- HackerRank
 - Personal challenges
 
 ## Goal
